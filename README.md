@@ -85,5 +85,4 @@ Recommendations:
 
 convert your previous project base on springboot.
 
-Sample Code Base: https://github.com/pgciq/SpringbootDemo 
-
+Sample Code Base: https://github.com/java-mentoring-program-2/SpringBootDemo
