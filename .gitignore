@@ -1,0 +1,9 @@
+/target/
+.classpath
+.project
+.settings
+/jmpdb.tmp/
+jmpdb.lck
+jmpdb.log
+jmpdb.properties
+jmpdb.script
