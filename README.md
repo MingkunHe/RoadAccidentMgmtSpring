@@ -82,6 +82,8 @@ Recommendations:
 6. JPA will be configured in spring config file which inturn will search for persistence.xml under META-INF/persistence.xml.
 
 #HomeTask 5:
+
 convert your previous project base on springboot.
+
 Sample Code Base: https://github.com/pgciq/SpringbootDemo 
 
