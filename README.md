@@ -1,4 +1,4 @@
-
+﻿
 # RoadAccidentsMgmt
 
 ##Setting up environment
@@ -81,4 +81,7 @@ Recommendations:
 5. DB related properties will be defined in persistence.xml
 6. JPA will be configured in spring config file which inturn will search for persistence.xml under META-INF/persistence.xml.
 
+#HomeTask 4:
+convert your previous project base on springboot.
+Sample Code Base: https://github.com/pgciq/SpringbootDemo 
 
